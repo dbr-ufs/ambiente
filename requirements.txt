@@ -1,5 +1,4 @@
 nbgitpuller
 
 # Data analytics
-octave
 octave_kernel
