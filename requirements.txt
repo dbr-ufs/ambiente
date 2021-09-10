@@ -1,0 +1,13 @@
+nbgitpuller
+
+# Data analytics
+numpy
+matplotlib
+pandas
+gnuplot
+nodejs
+octave
+octave_kernel
+texinfo
+bokeh
+scipy
