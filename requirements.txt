@@ -1,6 +1,6 @@
 nbgitpuller
 
-gnuplot
+# Data analytics
 nodejs
 octave
 octave_kernel
