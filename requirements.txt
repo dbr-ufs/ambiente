@@ -2,6 +2,7 @@ nbgitpuller
 
 # Data analytics
 nodejs
+ipykernel
 octave_kernel
 bokeh
 pandas
