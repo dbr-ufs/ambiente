@@ -1,9 +1,1 @@
 nbgitpuller
-
-# Data analytics
-nodejs
-bokeh
-pandas
-scipy
-matplotlib
-
