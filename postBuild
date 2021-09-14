@@ -1,1 +1,3 @@
-jupyter serverextension enable --py nbgitpuller --sys-prefix
+#!/bin/bash
+jupyter nbextension     enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
