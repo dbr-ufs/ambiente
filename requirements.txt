@@ -2,7 +2,6 @@ nbgitpuller
 
 # Data analytics
 nodejs
-octave
 octave_kernel
 texinfo
 bokeh
