@@ -3,7 +3,6 @@ nbgitpuller
 # Data analytics
 nodejs
 octave_kernel
-texinfo
 bokeh
 pandas
 scipy
