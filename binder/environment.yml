@@ -5,5 +5,4 @@ dependencies:
 - gnuplot
 - octave
 - octave_kernel
-
-
+- nbgitpuller
