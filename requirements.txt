@@ -4,4 +4,3 @@ nbgitpuller
 numpy
 matplotlib
 pandas
-octave-kernel
