@@ -3,14 +3,7 @@ channels:
 - conda-forge
 dependencies:
 - gnuplot
-- nodejs
 - octave
 - octave_kernel
-- texinfo
-- bokeh
-- pandas
-- scipy
-- matplotlib
-- pip
-- pip:
-    - jupyter-server-proxy
+
+
